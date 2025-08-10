@@ -45,7 +45,7 @@ app.get("/health", (_req, res) => {
 });
 
 app.post("/save", (req, res) => {
-  console.log(req.body?.roast);
+  console.log(req.body?.review);
   res.status(200).json({ id: "ajdashldas" });
 });
 

@@ -170,7 +170,7 @@ function App() {
                 <span className="text-2xl">🔥</span>
               </div>
               <h2 className="text-4xl font-google font-bold text-google-gray-900 mb-2">
-                Your Resume Roast
+                Your Resume Review
               </h2>
               <p className="text-google-gray-600 text-lg">
                 Here's what our AI thinks about your resume
