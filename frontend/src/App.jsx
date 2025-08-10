@@ -228,7 +228,7 @@ function App() {
           <div className="max-w-4xl mx-auto px-6 text-center">
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-3">
               <a 
-                href="https://www.linkedin.com/in/shivam-saurabh-b5bb22279/" 
+                href="https://www.linkedin.com/in/manish-kumar-959b2125b/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
@@ -240,7 +240,7 @@ function App() {
               </a>
               
               <a 
-                href="https://github.com/shivamsbh" 
+                href="https://github.com/kumar-manish07" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-4 py-2 bg-gray-800 text-white rounded-lg hover:bg-gray-900 transition-colors"
@@ -253,7 +253,7 @@ function App() {
             </div>
             
             <p className="text-google-gray-600 text-sm">
-              Made by <span className="font-semibold text-google-gray-800">shivamsbh</span> with ❤️
+              Made by <span className="font-semibold text-google-gray-800">manishkr</span> with ❤️
             </p>
           </div>
         </footer>
@@ -436,7 +436,7 @@ function App() {
           <div className="text-center">
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-4">
               <a 
-                href="https://www.linkedin.com/in/shivam-saurabh-b5bb22279/" 
+                href="https://www.linkedin.com/in/manishkr/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
@@ -448,7 +448,7 @@ function App() {
               </a>
               
               <a 
-                href="https://github.com/shivamsbh" 
+                href="https://github.com/manishkr" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-4 py-2 bg-gray-800 text-white rounded-lg hover:bg-gray-900 transition-colors"
@@ -461,7 +461,7 @@ function App() {
             </div>
             
             <p className="text-google-gray-600">
-              Made by <span className="font-semibold text-google-gray-800">shivamsbh</span> with ❤️ • Get honest feedback to improve your career prospects
+              Made by <span className="font-semibold text-google-gray-800">manishkr</span> with ❤️ • Get honest feedback to improve your career prospects
             </p>
           </div>
         </div>
