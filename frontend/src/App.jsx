@@ -436,7 +436,7 @@ function App() {
           <div className="text-center">
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-4">
               <a 
-                href="https://www.linkedin.com/in/manishkr/" 
+                href="https://www.linkedin.com/in/manish-kumar-959b2125b/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
@@ -448,7 +448,7 @@ function App() {
               </a>
               
               <a 
-                href="https://github.com/manishkr" 
+                href="https://github.com/kumar-manish07" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-4 py-2 bg-gray-800 text-white rounded-lg hover:bg-gray-900 transition-colors"
